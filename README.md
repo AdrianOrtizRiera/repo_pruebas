@@ -4,6 +4,6 @@
 * Segundo elemento
 	__palabra__
 
-```
+```js
 var x = 10;
 ```
